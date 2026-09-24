@@ -1,0 +1,15 @@
+.vs/
+xcelium.d/
+cov_work/
+waves.shm/
+INCA_libs/
+sim/logs/
+*.vcd
+*.log
+*.history
+*.key
+*.err
+xrun.history
+xrun.log
+docs/cov_summary.txt
+docs/cov_functional.txt

@@ -1,0 +1,17 @@
+../rtl/fswwdt_pkg.sv
+../rtl/fswwdt_sync.sv
+../rtl/fswwdt_cfg_cdc.sv
+../rtl/fswwdt_pulse_cdc.sv
+../rtl/fswwdt_counter.sv
+../rtl/fswwdt_window.sv
+../rtl/fswwdt_error.sv
+../rtl/fswwdt_irq.sv
+../sva/fswwdt_sva.sv
+../rtl/fswwdt_regs.sv
+../rtl/fswwdt_status_sync.sv
+../rtl/fswwdt_core.sv
+../rtl/fswwdt_top.sv
++incdir+../uvm
+../uvm/fswwdt_if.sv
+../uvm/fswwdt_uvm_pkg.sv
+../uvm/tb_top.sv

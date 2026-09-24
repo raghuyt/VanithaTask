@@ -1,0 +1,5 @@
+# Xcelium coverage configuration for the FSWWDT bench.
+# Functional covergroups are the signoff metric. Code coverage is supporting evidence.
+set_covergroup -new_instance_reporting
+set_covergroup -goal 100
+select_coverage -block -expr -toggle -fsm
